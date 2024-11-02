@@ -1,4 +1,4 @@
-# quadratic_formula
+# Quadratic Formula Calculator
 
 Basic quadratic formula calculator
 
